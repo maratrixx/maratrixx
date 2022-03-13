@@ -2,7 +2,7 @@
 
 <p align="center">
   <img align="center" src="https://github.com/maratrixx/maratrixx/raw/master/developer.gif"/>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=maratrixx&title=MultipleLang,Star,Follower,Commit,Issue,PullRequest" style="max-width:100%;">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=maratrixx&title=MultipleLang,Repositories,Star,Commit,Issue,PullRequest" style="max-width:100%;">
 </p>
 
 
